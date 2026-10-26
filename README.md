@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nusrat</h1>
-<h3 align="center">CSE undergrad and developer with a keen interest in NLP</h3>
+<h3 align="center">CSE graduate and developer with a keen interest in NLP</h3>
 
-- 🔭 I’m currently working on **Courtroom-Style Multi-Agent Debate with Progressive RAG (Undergrad Thesis), Kotha: An LLM-Assisted Bangla AAC System, GoalNet: an interactive football simulator**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nusrat207?tab=repositories](https://github.com/Nusrat207?tab=repositories)
 
